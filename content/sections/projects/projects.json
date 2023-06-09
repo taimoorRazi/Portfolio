@@ -2,40 +2,130 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Supervised Machine Learning: Ensembled Methods",
+      "title": "MSc Thesis",
+      "description": "The thesis project focused on developing a machine learning pipeline for precise prediction of conceptual costs in construction projects. Extensive research was conducted to explore diverse models including Support Vector Regression, Neural Networks, Decision Trees, and Ensemble Methods. By utilizing the Bagging technique and working with a variety of datasets, significant improvements were achieved in the accuracy of the models. This research highlights expertise in machine learning, data analysis, and research methodology, demonstrating the capability to apply advanced techniques to real-world problems and generate valuable insights.",
+      "tags": ["Python", "Scikit-learn", "EDA", "Hyperparameter tuning"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/thesis.PNG",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/taimoorRazi/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Anomaly Detection",
+      "title": "Credit Card Fraud Detection",
+      "description": "Implemented an end-to-end pipeline (Data Ingestion, EDA, Model Preparation etc.) to help the client understand if a customer will buy their product or not by using the data of customers past interactions with financial institutions. Communicated the insights to the stakeholders through a PowerPoint presentation.",
+      "tags": ["Python", "Scikit-Learn", "Data Engineering", "EDA"],
+      "image": {
+        "src": "../../images/creditCard.PNG",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/taimoorRazi"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/taimoorRazi/Bank-Marketing-Project"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Supervised Machine Learning: Regression",
+      "title": "House Pricing Project",
+      "description": "Implemented an end-to-end pipeline to predict house prices in the research and development environment, prepared production code and packaged the model, deployed the app using Platform as a Service architecture in Heroku using FastAPI and automated the pipeline by Continuous Integration with CircleCI.",
+      "tags": ["Python", "Heroku", "FastAPI", "CircleCI"],
+      "image": {
+        "src": "../../images/housePricing.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/taimoorRazi/House_Pricing_Project"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Unsupervised Machine Learning: Clustering",
+      "title": "Customer Segmentation in US",
+      "description": "Built k-means clustering model, conduct feature selection, reduced high dimensional data using Principal Component Analysis (PCA), Designed, built, and deployed a Dash web application.",
+      "tags": ["Python", "PCA", "Dash Web App"],
+      "image": {
+        "src": "../../images/customer.PNG",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/taimoorRazi/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Scientific A/B Testing",
+      "title": "Email Marketing Campaign",
+      "description": "Built a choropleth map to show the distribution of ADSL students around the world using MongoDB, created a custom Python class to implement ETL processes, designed an experiment and analyze the results using a chi-square test, built an interactive web application that follows a three-tiered design pattern",
+      "tags": ["Python OOP", "MongoDB", "ETL"],
+      "image": {
+        "src": "../../images/ABTesting.PNG",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/taimoorRazi/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "App Landing Page",
+      "title": "Match Set Go Website",
+      "description": "Created a responsive landing page using modern frontend tools, plugins, HTML5, CSS3, and JavaScript. Utilized Bootstrap for layout and styling, and integrated plugins like Font Awesome and AOS for enhanced visuals and interactivity. Collaborated with design team to translate visual designs into engaging user interfaces. Ensured crossbrowser compatibility and optimized page performance.",
+      "tags": ["JavaScript", "HTML5", "CSS3"],
+      "image": {
+        "src": "../../images/logo.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/taimoorRazi"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/taimoorRazi/MSG-Webpage"
+        },
+        {
+          "type": "external",
+          "url": "https://matchsetgo.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Bankist Banking Web App",
+      "title": "Full Stack Personal Project",
+      "description": "A modern banking application developed as part of the 'The Complete JavaScript Course' by Jonas Schmedtmann. It features user-friendly navigation, secure authentication, transaction management, and real-time balance updates. Built with JavaScript, HTML, and CSS, it demonstrates proficiency in handling APIs, data persistence, and responsive design. The Bankist App showcases my ability to create functional and secure web applications, highlighting skills in JavaScript, HTML, CSS, and API integration.",
+      "tags": ["JavaScript", "HTML5", "CSS3", "RestFul APIs"],
+      "image": {
+        "src": "../../images/bankist.PNG",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/taimoorRazi/House_Pricing_Project"
+        },
+        {
+          "type": "external",
+          "url": "https://bankist-dom.netlify.app/"
         }
       ]
     }
@@ -43,6 +133,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/taimoorRazi"
   }
 }

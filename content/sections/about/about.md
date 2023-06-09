@@ -1,14 +1,16 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "About me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am a experienced Data Scientist and Full-stack Developer with a passion for content and technology. I strive to achieve impactful results in my work, utilizing my skills in machine learning, data analysis, and full-stack development.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+With a strong statistical understanding and proficiency in developing end-to-end machine learning pipelines, I am capable of optimizing models and implementing efficient solutions. My expertise lies in Natural Language Processing (NLP), computer vision, and time series analysis.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Beyond my expertise in data science and backend development, I am also skilled in frontend technologies, enabling me to create user-friendly interfaces and engaging web applications.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Throughout my projects, I have demonstrated analytical acumen, leadership, and effective communication. I am currently seeking opportunities in the Finance/Technology industry where I can drive innovation and make a positive impact.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Let's connect and explore how I can contribute to your organization's success.
+<!-- 
+<a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"></a> -->
